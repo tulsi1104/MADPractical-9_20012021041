@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-9_20012021041/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.1" />
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-9_20012021041/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1" />
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-9_20012021041/app/src/main/res/layout/activity_main.xml" value="0.12345679012345678" />
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-9_20012021041/app/src/main/res/layout/sms_item_view.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical9_20012021041/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
       </map>
     </option>
